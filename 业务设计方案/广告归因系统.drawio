@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-07-18T06:26:03.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="0tYpLf9w1IJk4uJVVzAT" version="21.6.1" type="device">
+<mxfile host="Electron" modified="2023-07-19T12:10:29.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="eXDafAbUsYFzer0BVmju" version="21.6.1" type="device">
   <diagram name="第 1 页" id="-QulawYdFcsSmUQwUDt-">
     <mxGraphModel dx="2876" dy="1269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,10 +105,18 @@
         <mxCell id="_wR5FOwWuj7Z3Z6rShPC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;" edge="1" parent="1" source="_wR5FOwWuj7Z3Z6rShPC-35" target="_wR5FOwWuj7Z3Z6rShPC-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-35" value="假量处理策略" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;" edge="1" parent="1" source="_wR5FOwWuj7Z3Z6rShPC-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="689.5714285714287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-35" value="假量处理策略&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_wR5FOwWuj7Z3Z6rShPC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;" edge="1" parent="1" source="_wR5FOwWuj7Z3Z6rShPC-37" target="_wR5FOwWuj7Z3Z6rShPC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;" edge="1" parent="1" source="_wR5FOwWuj7Z3Z6rShPC-37" target="_wR5FOwWuj7Z3Z6rShPC-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_wR5FOwWuj7Z3Z6rShPC-37" value="设备过滤策略" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;fillColor=default;" vertex="1" parent="1">
@@ -117,11 +125,39 @@
         <mxCell id="_wR5FOwWuj7Z3Z6rShPC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;" edge="1" parent="1" source="_wR5FOwWuj7Z3Z6rShPC-38" target="_wR5FOwWuj7Z3Z6rShPC-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;" edge="1" parent="1" source="_wR5FOwWuj7Z3Z6rShPC-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="950.272727272727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_wR5FOwWuj7Z3Z6rShPC-38" value="媒体数据回传策略" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;" edge="1" parent="1" source="_wR5FOwWuj7Z3Z6rShPC-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="1090.272727272727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_wR5FOwWuj7Z3Z6rShPC-41" value="火山埋点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;fillColor=default;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="636.25" width="20" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-45" value="1、点击推广链接以后五秒钟内完成激活、注册等事件&lt;br&gt;&lt;br&gt;2、一定时间范围内的来自相同ip 激活数据大于指定阈值（50个）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;fontColor=#FF1231;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="645" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-48" value="相同设备在同一APP下注册或激活，只能处理一次" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;fontColor=#FF1231;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="800" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#FF1231;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="862.5" width="20" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-52" value="1、对于注册、激活归因事件，该设备已经回传过了，不做处理，&lt;br&gt;每次都要回传&lt;br&gt;&lt;br&gt;&lt;br&gt;2、一定时间范围内的来自相同ip 激活数据大于指定阈值" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;fontColor=#FF1231;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="875" width="590" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_wR5FOwWuj7Z3Z6rShPC-54" value="根据用户被归因到的点击数据，提取推广渠道、广告计划、&lt;br&gt;计划名称等信息，给用户属性打标，详情参考需求文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;fontColor=#FF1231;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1060" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

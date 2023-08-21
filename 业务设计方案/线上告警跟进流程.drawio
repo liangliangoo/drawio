@@ -1,0 +1,80 @@
+<mxfile host="Electron" modified="2023-08-17T09:24:40.758Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="hS0tvTLBXAhSqIzXDL1t" version="21.6.5" type="device">
+  <diagram name="第 1 页" id="4GGQwd2EztabJbFYsoKW">
+    <mxGraphModel dx="1434" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;" edge="1" parent="1" source="kEYD8PTBOIJEJC8_vR9L-1" target="kEYD8PTBOIJEJC8_vR9L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-5" value="出发告警条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Helvetica;fontColor=#FF0839;" vertex="1" connectable="0" parent="kEYD8PTBOIJEJC8_vR9L-4">
+          <mxGeometry x="-0.0476" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;" edge="1" parent="1" source="kEYD8PTBOIJEJC8_vR9L-1" target="kEYD8PTBOIJEJC8_vR9L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-7" value="告警信息记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Helvetica;fontColor=#FF0839;" vertex="1" connectable="0" parent="kEYD8PTBOIJEJC8_vR9L-6">
+          <mxGeometry x="-0.0446" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-1" value="app-services&lt;br style=&quot;font-size: 17px;&quot;&gt;指标监控" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0839;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-2" value="飞书" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.517;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="kEYD8PTBOIJEJC8_vR9L-3" target="kEYD8PTBOIJEJC8_vR9L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-17" value="待处理的告警信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Helvetica;fontColor=#FF0839;" vertex="1" connectable="0" parent="kEYD8PTBOIJEJC8_vR9L-16">
+          <mxGeometry x="0.1779" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-3" value="DB" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.383;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;exitPerimeter=0;" edge="1" parent="1" source="kEYD8PTBOIJEJC8_vR9L-8" target="kEYD8PTBOIJEJC8_vR9L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-10" value="拉去尚未处理的告警信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Helvetica;fontColor=#FF0839;" vertex="1" connectable="0" parent="kEYD8PTBOIJEJC8_vR9L-9">
+          <mxGeometry x="-0.1484" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;" edge="1" parent="1" source="kEYD8PTBOIJEJC8_vR9L-8" target="kEYD8PTBOIJEJC8_vR9L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-15" value="按照时间梯度推送消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Helvetica;fontColor=#FF0839;" vertex="1" connectable="0" parent="kEYD8PTBOIJEJC8_vR9L-11">
+          <mxGeometry x="0.3" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-8" value="job-services" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-14" value="1、时间梯度设定：30min、1h、3h、6h 、6h&lt;br&gt;2、每周一统计上周 个人告警未处理数量以及告警修复问题平均耗时&lt;br&gt;&lt;br&gt;上周未处理告警 需要给出相应的解释 同步群里" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="48" y="760" width="510" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="910" y="260" width="70" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-20" value="告警跟进管理后台功能模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Helvetica;fontColor=#FF0839;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-21" value="1、各个告警模块 告警信息 跟进看板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="290" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-22" value="2、业务异常（redis\mysql）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="460" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEYD8PTBOIJEJC8_vR9L-23" value="3、各模块 每天产出告警数量 以及平均修复时长折线图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=17;fontColor=#FF0839;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="610" width="460" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
